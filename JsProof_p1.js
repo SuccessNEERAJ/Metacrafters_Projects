@@ -36,7 +36,6 @@ mintNFT("Yuno", "Wind Magic", 4, "Golden Dawn", "Senior Magic Knight", "Spirit D
 mintNFT("Noelle Silva", "Water Magic", 3, "Black Bulls", "Junior Magic Knight", "Sea Dragon's Roar");
 mintNFT("Mimosa Vermillion", "Plant Magic", 3, "Golden Dawn", "Junior Magic Knight", "Magic Flower Guidepost");
 mintNFT("Luck Voltia", "Lightning Magic", 3, "Black Bulls", "Junior Magic Knight", "Thunderclap Crumbling Orb");
-mintNFT("Charmy Pappitson", "Cotton Magic", 3, "Black Bulls", "Junior Magic Knight", "Food Magic");
 
 // call your functions below this line
 listNFTS();
